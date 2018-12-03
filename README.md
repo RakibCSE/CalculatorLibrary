@@ -1,2 +1,2 @@
 # CalculatorLibrary
-Making of a basic calculator app. The aim of this project to learn about continuous integration in python.
+Making of a basic calculator app. The aim of this project to learn about continuous integration software development cycle.
